@@ -17,7 +17,7 @@
   <h3 align="center">SmartHouse-MQTT</h3>
 
   <p align="center">
-    Plataforma de Colaboração para Amantes de Livros, Séries e Filmes.
+    Projeto OIC Mackenzie. Controle de Bulb através de Sensor de Som e/ou via MQTT pelos apps MQTT Tool e/ou MQTT Dash
     <br />
     <a href="https://github.com/vceesar/cortinas/blob/master/especificacao.md"><strong>EXPLORAR ESPECIFICAÇÃO»</strong></a>
     <br />
