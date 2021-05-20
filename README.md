@@ -12,11 +12,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/vceesar/cortinas">
-    <img src="cortinas_logo/CORTINAS.png" alt="banner">
-  </a>
 
-  <h3 align="center"># SmartHouse-MQTT</h3>
+
+  <h3 align="center">SmartHouse-MQTT</h3>
 
   <p align="center">
     Plataforma de Colaboração para Amantes de Livros, Séries e Filmes.
