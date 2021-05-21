@@ -48,6 +48,20 @@ das detecções do som ambiente (palmas e estalos de dedo), onde via sensor de s
 ## Software e Documentação
 
 O Software usado para programar o código necessário para o Projeto foi o proprio software do <a href="https://www.arduino.cc/en/software"> Arduino IDE </a> .
+
+## Hardware Utilizado
+```
+1x Placa NodeMCU V3 - ESP8266
+1x Arduino Uno R3
+1x Módulo Relé 5V
+1x Jumper Macho-Macho / Macho-Fêmea / Fêmea-Fêmea
+1x Protoboard 400 Pontos (O tamanho da protoboard é opcional, quanto maior, mais possibilidade de organização).
+1x Sensor de Som KY-038
+1x Soquete para Lâmpada
+1x Lâmpada 110W
+1x Cabo Elétrico (Tamanho do cabo depende do tamanho da extensão que queira fazer).
+
+```
 <!-- LICENSE -->
 ## Licença
 
