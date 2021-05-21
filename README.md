@@ -60,7 +60,7 @@ Augusto Rosasco - 31905811              ->  31905811@mackenzista.com.br
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/badge/CONTRIBUTORS-4-red?style=for-the-badge
+[contributors-shield]: https://img.shields.io/badge/CONTRIBUTORS-2-red?style=for-the-badge
 [contributors-url]: #
 [forks-shield]: https://img.shields.io/badge/FORKS-0.0K-red?style=for-the-badge
 [forks-url]: #
@@ -70,8 +70,6 @@ Augusto Rosasco - 31905811              ->  31905811@mackenzista.com.br
 [issues-url]: #
 [license-shield]: https://img.shields.io/badge/LICENSE-MIT-red?style=for-the-badge
 [license-url]: https://github.com/vceesar/cortinas/blob/master/LICENSE
-[TRELLO-SHIELD]: https://img.shields.io/badge/TRELLO-ON-yellow?style=for-the-badge
-[TRELLO-URL]: https://trello.com/b/o93XYUt5/proj-pratic-prof-ads#
 [product-screenshot]: images/screenshot.png
 
 <br>
