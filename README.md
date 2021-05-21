@@ -39,9 +39,11 @@
   </ol>
 </details>
 
-## Aplicação no Heroku (link abaixo). <img src="heroku.png" width="30px" height="30px">
+## Funcionamento e Descrição
 
-<a href="https://thecortinas.herokuapp.com/">Clique aqui ! </a>
+Nosso Projeto busca imergir no conceito das SmartHouses, tópico que vem crescendo absurdamente conforme o passar dos ultimos anos.
+Através das Conexões Wifi MQTT, será possivel através deste, controlar sua Lâmpada 💡. Tambem será possivel, caso preferir, controla-lá localmente, ou seja, através apenas,
+das detecções do som ambiente (palmas e estalos de dedo), onde via sensor de som, o sinal do Módulo Relé se alternará.
 
 <!-- LICENSE -->
 ## Licença
