@@ -65,6 +65,10 @@ O Software usado para programar o código necessário para o Projeto foi o propr
 
 ## Documentação das interfaces, protocolos e módulos de comunicação.
 
+## Youtube
+
+Caso queira assistir mais sobre o Projeto, temos um vídeo que imergimos mais a fundo. <a href="https://www.youtube.com/watch?v=8e-DSVdG8SU"> Clique aqui <a/> para ser redirecionado
+
 
 <!-- LICENSE -->
 ## Licença
