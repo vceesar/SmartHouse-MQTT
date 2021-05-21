@@ -45,6 +45,9 @@ Nosso Projeto busca imergir no conceito das SmartHouses, tópico que vem crescen
 Através das Conexões Wifi MQTT, será possivel através deste, controlar sua Lâmpada 💡. Tambem será possivel, caso preferir, controla-lá localmente, ou seja, através apenas,
 das detecções do som ambiente (palmas e estalos de dedo), onde via sensor de som, o sinal do Módulo Relé se alternará.
 
+## Software e Documentação
+
+O Software usado para programar o código necessário para o Projeto foi o proprio software do <a href="https://www.arduino.cc/en/software"> Arduino IDE </a> .
 <!-- LICENSE -->
 ## Licença
 
