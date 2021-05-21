@@ -62,6 +62,10 @@ O Software usado para programar o código necessário para o Projeto foi o propr
 1x Cabo Elétrico (Tamanho do cabo depende do tamanho da extensão que queira fazer).
 
 ```
+
+## Documentação das interfaces, protocolos e módulos de comunicação.
+
+
 <!-- LICENSE -->
 ## Licença
 
