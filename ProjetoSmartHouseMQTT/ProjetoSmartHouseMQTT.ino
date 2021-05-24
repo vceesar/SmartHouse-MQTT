@@ -43,8 +43,8 @@ void setup() {
  
   while (!client.connected()) {
     #ifdef DEBUG
-    Serial.println("Tentando Estabelecer Conexão ao Broker MQTT...");                     
-    #endif
+    Serial.println("Tentando Estabelecer Conexão ao Broker MQTT...");                    // Estrutura de Repetição responsável por verificar se está conectado, e               
+    #endif                                                                               // caso não esteja, tenta estabelecer a conexão com o Broker.
  
     if (client.connect("ESP32Client", UsuarioMQTT, SenhaMQTT )) {
       #ifdef DEBUG
@@ -53,7 +53,7 @@ void setup() {
  
     } else {
       #ifdef DEBUG 
-      Serial.print("Ocorreu algum problema .... :( ");
+      Serial.print("Ocorreu algum problema .... :( ");                                // Mensagem de erro e printa o estado.
       Serial.print(client.state());
       #endif
       delay(2000);
@@ -112,7 +112,7 @@ void callback(char* topico, byte* payload, unsigned int length) {
   String mensagemtopico = String((char*)payload);
 
   #ifdef DEBUG
-  Serial.print("Uma mensagem acabou de ser recebida pelo Tópico: ");
+  Serial.print("Uma mensagem acabou de ser recebida pelo Tópico: ");                 // Printa o respectivo tópico e a mensagem recebida (ligar ou desligar).
   Serial.println(topico);
   Serial.print("Mensagem:");
   Serial.print(mensagemtopico);
