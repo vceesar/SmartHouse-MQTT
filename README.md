@@ -50,6 +50,8 @@ das detecções do som ambiente (palmas e estalos de dedo), onde via sensor de s
 
 O Software usado para programar o código necessário para o Projeto foi o proprio software do <a href="https://www.arduino.cc/en/software"> Arduino IDE </a> .
 
+Para visualizar o Código, basta <a href="Código.md"> Clicar Aqui. </a>
+
 ## Hardware Utilizado
 ```
 1x Placa NodeMCU V3 - ESP8266
