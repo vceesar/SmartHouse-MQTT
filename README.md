@@ -39,7 +39,8 @@
     <li><a href="#Agradecimentos">Agradecimentos</a></li>
     <li><a href="#funcionamento-e-descrição">Funcionamento e Descrição</a></li>
     <li><a href="#software-e-documentação">Software e Documentação</a></li>
-      <ul><a href="#hardware-utilizado">Hardware Utilizado</a></ul>
+    <li><a href="#hardware-utilizado">Hardware Utilizado</a></li>
+    <ul><a href="#Funções-dos-Componentes-de-Hardware"> Funções dos Componentes de Hardware </ul>
     <li><a href="#Documentação-das-interfaces-protocolos-e-módulos-de-comunicação">Software e Documentação</a></li>
     <ul><a href="#Configuração-e-Aplicação-no-MQTT-Tool">Configuração e Aplicação no MQTT Tool</a></ul>
     <ul><a href="#Configuração-e-Aplicação-no-MQTT-Dash">Configuração e Aplicação no MQTT Dash</a></ul>
