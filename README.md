@@ -79,6 +79,16 @@ O Broker é o responsável em gerir as publicações feitas ao Tópico definido,
 
 <img src = "Aplicativos Mobile MQTT/MQTTCloud.png">
 
+** Outra opção seria utilizar o <a href="https://io.adafruit.com/"> Adafruit </a> , que possui um plano totalmente FREE. 
+Após criar a Instância e ter todos os dados necessários vindos do MQTTCloud como Host, Port, username e password, basta inserir esses dados corretamente no Código disponibilizado e carrega-lo para a respectiva Placa.
+
+### Agora com o Broker e Código configurado, qual a proxima etapa?
+
+A Proxima Etapa agora, é configurar o aplicativo que você irá utilizar para manipular o Atuador.  Caso você possua IOS, recomendamos o App MQTT Tool, segue o link para a App Store <a href="https://apps.apple.com/us/app/mqttool/id1085976398"< aqui. </a> </br>
+Caso possua Android, utilize o <a href="https://play.google.com/store/apps/details?id=net.routix.mqttdash&hl=pt_BR&gl=US"> MQTT Dash. </a>
+
+
+
 ## Youtube 🎥
 
 Caso queira assistir mais sobre o Projeto, temos um vídeo que imergimos mais a fundo. <br> <a href="https://www.youtube.com/watch?v=8e-DSVdG8SU"> Clique aqui <a/> para ser redirecionado
