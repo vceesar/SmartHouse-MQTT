@@ -20,7 +20,7 @@
     Projeto OIC Mackenzie. Controle de Bulb através de Sensor de Som e/ou via MQTT pelos apps MQTT Tool e/ou MQTT Dash
     <br />
     <a href="https://github.com/vceesar/SmartHouse-MQTT/tree/main/Schemas"><strong>EXPLORAR IMAGENS»</strong></a><br>
-     <a href="https://github.com/vceesar/SmartHouse-MQTT/blob/main/C%C3%B3digo%20SmartHouse/ProjetoSmartHouseMQTT.ino"><strong>EXPLORAR CÓDIGO»</strong></a>
+     <a href="Código.md"><strong>EXPLORAR CÓDIGO»</strong></a>
     <br />
     <br />
     ·
@@ -49,6 +49,8 @@ das detecções do som ambiente (palmas e estalos de dedo), onde via sensor de s
 ## Software e Documentação
 
 O Software usado para programar o código necessário para o Projeto foi o proprio software do <a href="https://www.arduino.cc/en/software"> Arduino IDE </a> .
+
+Para visualizar o Código totalmente documentado e explicado, basta <a href="Código.md"> Clicar Aqui. </a>
 
 ## Hardware Utilizado
 ```
