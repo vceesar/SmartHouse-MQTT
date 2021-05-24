@@ -93,7 +93,7 @@ Caso possua Android, utilize o <a href="https://play.google.com/store/apps/detai
 Para configurar o MQTT Tool, logo na página principal do app, você deve inserir os dados fornecidos pelo Broker para estabelecer Conexão.
 Após isso, basta ir na aba de Publish, inserir o Tópico definido, e a Mensagem. Em nosso caso, definimos o Tópico "controlar-lampada" e a mensagem "ligar", fazendo com que a Lâmpada acendesse. 
 
-<img src = "Aplicativos Mobile MQTT/MQTTTool_1.PNG" width=50%> 
+<img src = "Aplicativos Mobile MQTT/MQTTTool_1.PNG" width=100px  height=100px> 
 
 
 
