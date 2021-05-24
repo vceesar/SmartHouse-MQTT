@@ -77,8 +77,10 @@ Este por sua vez,possibilitará que, possamos conectar nosso subscriber (A Placa
 
 O Broker é o responsável em gerir as publicações feitas ao Tópico definido, e as subscrições. Nesse caso, usaremos os Serviços do <a href = "https://www.cloudmqtt.com/"> MQTTCloud </a>. Este, possui como seu plano mais em conta, a opção Humble Hudgehog por cerga de $4.70.
 
+<p align= "center">
 <img src = "Aplicativos Mobile MQTT/MQTTCloud.png">
-
+<p>
+  
 ** Outra opção seria utilizar o <a href="https://io.adafruit.com/"> Adafruit </a> , que possui um plano totalmente FREE. 
 Após criar a Instância e ter todos os dados necessários vindos do MQTTCloud como Host, Port, username e password, basta inserir esses dados corretamente no Código disponibilizado e carrega-lo para a respectiva Placa.
 
