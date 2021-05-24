@@ -39,7 +39,7 @@
     <li><a href="#Agradecimentos">Agradecimentos</a></li>
     <li><a href="#funcionamento-e-descrição">Funcionamento e Descrição</a></li>
     <li><a href="#software-e-documentação">Software e Documentação</a></li>
-      <li><a href="#hardware-utilizado">Hardware Utilizado</a></li>
+      <ul><a href="#hardware-utilizado">Hardware Utilizado</a></ul>
   </ol>
 </details>
 
