@@ -89,6 +89,8 @@ Após criar a Instância e ter todos os dados necessários vindos do MQTTCloud c
 A Proxima Etapa agora, é configurar o aplicativo que você irá utilizar para manipular o Atuador.  Caso você possua IOS, recomendamos o App MQTT Tool, segue o link para a App Store <a href="https://apps.apple.com/us/app/mqttool/id1085976398"> aqui. </a> </br>
 Caso possua Android, utilize o <a href="https://play.google.com/store/apps/details?id=net.routix.mqttdash&hl=pt_BR&gl=US"> MQTT Dash. </a>
 
+<hr>
+<br>
 
 ### Configuração e Aplicação no MQTT Tool
 
