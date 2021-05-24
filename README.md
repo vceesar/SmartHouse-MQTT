@@ -40,6 +40,7 @@
     <li><a href="#funcionamento-e-descrição">Funcionamento e Descrição</a></li>
     <li><a href="#software-e-documentação">Software e Documentação</a></li>
       <ul><a href="#hardware-utilizado">Hardware Utilizado</a></ul>
+    <li><a href="#Documentação-das-interfaces,-protocolos-e-módulos-de-comunicação">Software e Documentação</a></li>
   </ol>
 </details>
 
