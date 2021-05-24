@@ -99,6 +99,18 @@ Após isso, basta ir na aba de Publish, inserir o Tópico definido, e a Mensagem
 <img src = "Aplicativos Mobile MQTT/MQTTTool_1.PNG" width=30%  height=30%> 
 </p>
 
+<p align="center">
+  <img src = "Aplicativos Mobile MQTT/MQTTTool_3.PNG" width=30%  height=30%> 
+</p>
+### Configuração e Aplicação no MQTT Dash
+
+No MQTT Dash, primeiramente você deve criar um "perfil" com todos os dados fornecidos pelo Broker.
+Após isso, deve-se criar um Dashboard, e nele inserir o Tópico, relacionar os dashboards com as mensagens (ON/OFF), definir o Quality of Service (QoS 1), etc..
+
+<p align="center">
+  <img src="Aplicativos Mobile MQTT/MQTTDash_1.jpg">
+ </p>
+
 
 ## Youtube 🎥
 
