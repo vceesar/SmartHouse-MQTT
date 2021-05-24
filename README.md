@@ -71,8 +71,18 @@ Para visualizar o Código totalmente documentado e explicado, basta <a href="Có
 1x Soquete para Lâmpada
 1x Lâmpada 110W
 1x Cabo Elétrico (Tamanho do cabo depende do tamanho da extensão que queira fazer).
+1x Plug Macho
 
 ```
+### Funções dos Componentes de Hardware
+
+O NodeMCU ficará responsável por controlar as saídas de sinais dos sensores e atuadores e através do Arduino IDE, terá a programacao gravada em sua memória.
+O Arduino Uno R3 ficará responsável por controlar as tensões de 5V dos sensores e atuadores, assim como todas os GND.
+O Módulo Relé atuará como um interruptor, tendo os cabos elétricos conectados tanto nos sinais Comum e Normalmente aberto, onde conforme o Sinal do Sensor, irá intercalar entre eles.
+Todas as Conexões serão realizadas através dos Jumpers definidos no escopo.
+O Sensor irá atuar medindo as frequências sonoras do ambiente, e caso algum som seja detectado, irá mudar o sinal do Relé.
+O Soquete irá sustentar e dar energia a Lâmpada, e terá suas saídas conectadas tanto no Módulo Relé, quanto no Plug Macho conectado a Energia (*** CUIDADO ****)
+As ligações do Soquete no Relé, e do Soquete no Plug Macho, serão estabelecidas através do Cabo Elétrico.
 
 ## Documentação das interfaces, protocolos e módulos de comunicação.
 
