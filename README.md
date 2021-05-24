@@ -118,7 +118,7 @@ Após isso, deve-se criar um Dashboard do tipo Switch/Button, e nele inserir o T
  </p>
  
  <p align="center">
-  <img src="Aplicativos Mobile MQTT/MQTTDash_4.jpeg">
+  <img src="Aplicativos Mobile MQTT/MQTTDash_5.jpeg">
  </p>
 
 
