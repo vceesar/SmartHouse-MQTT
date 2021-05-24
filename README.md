@@ -116,6 +116,10 @@ Após isso, deve-se criar um Dashboard, e nele inserir o Tópico, relacionar os 
 <p align="center">
   <img src="Aplicativos Mobile MQTT/MQTTDash_1.jpg">
  </p>
+ 
+ <p align="center">
+  <img src="Aplicativos Mobile MQTT/MQTTDash_2.jpg">
+ </p>
 
 
 ## Youtube 🎥
