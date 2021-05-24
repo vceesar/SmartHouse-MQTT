@@ -37,6 +37,8 @@
     <li><a href="#licença">Licença</a></li>
     <li><a href="#contatos">Contatos</a></li>
     <li><a href="#Agradecimentos">Agradecimentos</a></li>
+    <li><a href="#Funcionamento-e-Descricao">Funcionamento e Descrição</a></li>
+    <li><a href="#Agradecimentos">Agradecimentos</a></li>
   </ol>
 </details>
 
